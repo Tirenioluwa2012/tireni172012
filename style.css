@@ -1,0 +1,38 @@
+body{
+    background-color: #ebeb34;
+    text-align: center;
+    color: #0ba5d4;
+}
+
+h1{
+    color: #139ae8;
+    font-family: 'Lobster', cursive;
+    font-size: 90px;
+    line-height: 2;
+    margin-top: 30px;
+}
+
+h2{
+     font-family: 'Monteserrat', sans-serif;
+     color: #66bfbf;
+     line-height: 2;
+     font-size: 36px;
+}
+
+.top-cloud{
+    padding-left: 600px;
+    padding-top: 50px;
+}
+    
+.bottom-cloud{
+        padding-right: 600px;
+        padding-bottom: 20px;
+}
+
+.profile-pic{
+    width: 250px;
+    height: 250px;
+    border-radius: 10%;
+    margin-top: 30px;
+    
+}
